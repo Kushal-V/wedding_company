@@ -60,6 +60,9 @@ I have implemented all functional requirements including dynamic collection crea
 | **Data Migration** | Updating an Organization Name triggers a database-level collection rename to maintain consistency. |
 | **Security** | API is protected via OAuth2 (Bearer Token). Admin passwords are encrypted. |
 
+## 🏗 Architecture & Design
+For a deep dive into the system architecture, design choices, scalability analysis, and trade-offs, please refer to the **[Design Document (DESIGN.md)](DESIGN.md)**.
+
 ## 📦 Local Installation
 
 If you prefer to run it locally:
